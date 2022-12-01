@@ -1,4 +1,4 @@
-
+local key = _GxG.Token
 local a1 = 'https://raw.githubusercontent.com/G'
 local a2 = 'raham-Void/VoidC'
 local a3 = 'lient/main/whit'
@@ -11,7 +11,6 @@ local b3 = 'lient/main/blacklist'
 local b4 = '.lua'
 local vio = b1..b2..b3..b4
 local banned_link = loadstring(game:HttpGet(vio))()
-local key = 'key6'
 local authed;
 local banned;
 
