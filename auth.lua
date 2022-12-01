@@ -1,4 +1,4 @@
-local key = _GxG.Token
+local key = _GxG_Token
 local a1 = 'https://raw.githubusercontent.com/G'
 local a2 = 'raham-Void/VoidC'
 local a3 = 'lient/main/whit'
