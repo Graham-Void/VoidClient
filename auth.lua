@@ -125,7 +125,7 @@ end
 function check()
     if keyTable[key] then
         authed = true
-        discord_embed('Valid Key Detected')
+        --discord_embed('Valid Key Detected')
         return true
     else
         authed = false
