@@ -1,3 +1,3 @@
-keys = {'root','lol'}
- 
+keys = { "key1", "key2"}
+
 return keys
