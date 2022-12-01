@@ -1,4 +1,11 @@
 local key = _GxG_Token
+local user_id = game:GetService("Players").LocalPlayer.UserId
+local autx = 'Void-'..user_id
+if key == autx then
+    print()
+else
+    game.Players.LocalPlayer:Kick('Invalid Key, please contact graham')
+end
 local a1 = 'https://raw.githubusercontent.com/G'
 local a2 = 'raham-Void/VoidC'
 local a3 = 'lient/main/whit'
